@@ -19,7 +19,7 @@ const int groupID = -3660892;
 #define DHTTYPE DHT22
 DHT dht(DHTPIN, DHTTYPE);
 float t, h, a, b, c, d;
-#define FIREBASE_HOST "smarthydroponic-ed50c.firebaseio.com"
+#define FIREBASE_HOST "smart.firebaseio.com"
 #define FIREBASE_AUTH "O1SWEsN5JR"
 #define WIFI_SSID "XI TKJ 2 STI"
 #define WIFI_PASSWORD ""
