@@ -4,14 +4,10 @@
 CTBot myBot;
 //bot telegram
 String ssid = "XI TKJ 2 STI";
-String pass = "a1b2c3d4";
-//String ssid = "PRODIPTE";
-//String pass = "0987654321";
-//String ssid = "SSID2";
-//String pass = "kmzwa8awaa";
+String pass = "";
 
-String token = "1115994672:AAFvA4h6Gf09gqfDXREdES5G_t5W3MkgyV8";
-const int groupID = -366089244;
+String token = "1115994672:AAFvA4h6Gf09gqfDXREdES5G_t5W3Mkg";
+const int groupID = -3660892;
 
 
 //dht
@@ -24,13 +20,9 @@ const int groupID = -366089244;
 DHT dht(DHTPIN, DHTTYPE);
 float t, h, a, b, c, d;
 #define FIREBASE_HOST "smarthydroponic-ed50c.firebaseio.com"
-#define FIREBASE_AUTH "6YRyQopAGTU4PrLpDt6O4m4qDYUtiWO1SWEsN5JR"
+#define FIREBASE_AUTH "O1SWEsN5JR"
 #define WIFI_SSID "XI TKJ 2 STI"
-#define WIFI_PASSWORD "a1b2c3d4"
-//#define WIFI_SSID "PRODIPTE"
-//#define WIFI_PASSWORD "0987654321"
-//#define WIFI_SSID "SSID2"
-//#define WIFI_PASSWORD "kmzwa8awaa"
+#define WIFI_PASSWORD ""
 
 
 //RELAY
