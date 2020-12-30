@@ -1,4 +1,4 @@
-# Smart Hydroponic Technology
+# Smart Hydroponic Technology with NodeMCU ESP8266
 
 ## Requirements
 
@@ -6,9 +6,9 @@
 
 * [CTBot for bot telegram](https://github.com/shurillu/CTBot)
 
-* [FirebaseArduino)(https://github.com/FirebaseExtended/firebase-arduino)
+* [FirebaseArduino](https://github.com/FirebaseExtended/firebase-arduino)
 
-* [RTC](https://github.com/aryapramudika/smarthydroponic/libraries)
+* [RTC](https://github.com/aryapramudika/smarthydroponic/tree/master/libraries)
 
 All libraries includes in libraries folder
 
