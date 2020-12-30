@@ -22,4 +22,4 @@ smarthydroponic-delay.ino controlled all with delay mode 5s
 
 smarthydroponic-rtc.ino controlled all with rtc 1am-7am 7am-13pm 13pm-19pm 
 
-kodular-tab.aia is kodular template for Android Apps [Kodular Website](c.kodular.io)
+kodular-tab.aia is kodular template for Android Apps [Kodular Website](https://c.kodular.io)
