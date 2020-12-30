@@ -1,5 +1,8 @@
 # Smart Hydroponic Technology
 
+**Final project:**
+https://www.youtube.com/watch?v=LurYVgjk-wI&ab_channel=AryaPramudika
+
 File sekolahae.ino berisi:
 1. Control Relay 8 Channel untuk Mengontrol 2 Pompa, 1 DC Motor, dan 1 kipas (Dengan Delay) untuk percobaan
 2. Sensor DHT22 untuk mendeteksi suhu dan kelembaban jika suhu lebih dari 30 derajat maka kipas di relay akan menyala
