@@ -6,9 +6,9 @@
 
 * [CTBot for bot telegram](https://github.com/shurillu/CTBot)
 
-* [FirebaseArduino(https://github.com/FirebaseExtended/firebase-arduino)
+* [FirebaseArduino)(https://github.com/FirebaseExtended/firebase-arduino)
 
-* [CTBot for bot telegram](https://github.com/shurillu/CTBot)
+* [RTC](https://github.com/aryapramudika/smarthydroponic/libraries)
 
 All libraries includes in libraries folder
 
